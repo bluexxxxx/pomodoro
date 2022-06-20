@@ -31,10 +31,10 @@ export default defineConfig({
       },
       manifest: {
         // APP 名稱
-        name: 'Pomodo',
-        short_name: 'Pomodo',
+        name: 'Pomodoro',
+        short_name: 'Pomodoro',
         // APP 說明
-        description: 'Pomodo',
+        description: 'Pomodoro',
         // APP 主題顏色
         theme_color: '#42b883',
         background_color: '#42b883',
